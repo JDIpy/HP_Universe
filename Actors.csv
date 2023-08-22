@@ -1,0 +1,96 @@
+Actor_Id,Person,Nr. of Movies,Role,Franchise Worldwide Box Office,Career Worldwide Box Office,Franchise / Career
+1,Daniel Radcliffe,8,Harry Potter,"$7,653,410,403","$8,535,841,421",89.70%
+2,Rupert Grint,8,Ronald Weasley,"$7,653,410,403","$7,701,875,415",99.40%
+3,Emma Watson,8,Hermione Granger,"$7,653,410,403","$9,850,274,230",77.70%
+4,Alan Rickman,8,Severus Snape,"$7,653,410,403","$10,702,888,615",71.50%
+5,Robbie Coltrane,8,Rubeus Hagrid,"$7,653,410,403","$9,993,989,032",76.60%
+6,Tom Felton,8,Draco Malfoy,"$7,653,410,403","$8,410,950,505",91.00%
+7,Bonnie Wright,8,Ginny Weasley,"$7,653,410,403","$7,653,410,403",100.00%
+8,Warwick Davis,8,Filius Flitwick,"$7,653,410,403","$14,965,761,701",51.10%
+9,Matthew Lewis,8,Neville Longbottom,"$7,653,410,403","$7,862,668,668",97.30%
+10,Devon Murray,8,Seamus Finnigan,"$7,653,410,403","$7,667,532,331",99.80%
+11,Josh Herdman,8,Gregory Goyle,"$7,653,410,403","$7,738,620,415",98.90%
+12,James Phelps,8,Fred Weasley,"$7,653,410,403","$7,676,287,351",99.70%
+13,Oliver Phelps,8,George Weasley,"$7,653,410,403","$7,676,287,351",99.70%
+14,Geraldine Somerville,8,Lily Potter,"$7,653,410,403","$7,825,113,013",97.80%
+15,Maggie Smith,7,Minerva McGonagall,"$6,701,642,698","$8,932,435,935",75.00%
+16,David Bradley,7,Argus Filch,"$6,701,642,698","$6,920,885,394",96.80%
+17,Julie Walters,7,Molly Weasley,"$6,766,667,616","$9,766,508,899",69.30%
+18,Alfie Enoch,7,Dean Thomas,"$6,701,642,698","$6,701,642,698",100.00%
+19,Mark Williams,7,Arthur Weasley,"$6,688,366,909","$7,540,400,057",88.70%
+20,Adrian Rawlins,7,James Potter,"$6,723,999,334","$6,812,824,463",98.70%
+21,Michael Gambon,6,Albus Dumbledore,"$5,813,412,379","$8,374,516,170",69.40%
+22,Jamie Waylett,6,Vincent Crabbe,"$5,385,364,437","$5,385,364,437",100.00%
+23,Jason Isaacs,5,Lucius Malfoy,"$4,969,363,132","$7,666,772,315",64.80%
+24,Richard Griffiths,5,Vernon Dursley,"$4,520,978,286","$6,939,724,496",65.10%
+25,Fiona Shaw,5,Petunia Dursley,"$4,520,978,286","$4,958,735,633",91.20%
+26,Timothy Spall,5,Peter Pettigrew,"$4,873,792,530","$8,524,014,501",57.20%
+27,Harry Melling,5,Dudley Dursley,"$4,520,978,286","$4,542,592,266",99.50%
+28,Chris Rankin,5,Percy Weasley,"$4,520,978,286","$4,520,978,286",100.00%
+29,Afshan Azad,5,Padma Patil,"$5,023,819,671","$5,023,819,671",100.00%
+30,William Melling,5,Nigel Wolpert,"$5,023,819,671","$5,042,943,522",99.60%
+31,Katie Leung,5,Cho Chang,"$5,023,819,671","$5,211,323,886",96.40%
+32,Ralph Fiennes,4,Lord Voldemort,"$4,094,408,602","$10,838,412,393",37.80%
+33,Helena Bonham Carter,4,Bellatrix Lestrange,"$4,137,076,884","$9,814,953,901",42.20%
+34,David Thewlis,4,Remus Lupin,"$3,610,391,331","$5,792,501,962",62.30%
+35,Robert Hardy,4,Cornelius Fudge,"$3,490,909,874","$3,787,991,052",92.20%
+36,Gary Oldman,4,Sirius Black,"$3,932,233,605","$11,017,861,513",35.70%
+37,Evanna Lynch,4,Luna Lovegood,"$4,137,076,884","$4,137,091,877",100.00%
+38,Natalia Tena,4,Nymphadora Tonks,"$4,137,076,884","$4,137,418,493",100.00%
+39,Eddie Redmayne,3,Newt Scamander,"$1,864,739,869","$2,940,960,745",63.40%
+40,Ezra Miller,3,Credence Barebone,"$1,864,739,869","$3,453,789,752",54.00%
+41,Dan Fogler,3,Jacob Kowalski,"$1,864,739,869","$3,326,571,171",56.10%
+42,Alison Sudol,3,Queenie Goldstein,"$1,864,739,869","$1,868,060,980",99.80%
+43,Katherine Waterston,3,Porpentina “Tina” Goldstein,"$1,864,739,869","$2,322,081,788",80.30%
+44,Brendan Gleeson,3,Mad-Eye Moody,"$2,778,130,341","$7,462,562,151",37.20%
+45,Helen McCrory,3,Narcissa Malfoy,"$3,197,457,035","$4,040,901,897",79.10%
+46,John Hurt,3,Ollivander,"$3,233,089,460","$6,305,647,239",51.30%
+47,Ralph Ineson,3,Amycus Carrow,"$3,197,457,035","$5,362,820,219",59.60%
+48,Emma Thompson,3,Sybill Trelawney,"$3,045,490,818","$8,920,957,831",34.10%
+49,Shefali Chowdhury,3,Parvati Patil,"$2,755,773,705","$2,755,773,705",100.00%
+50,Clémence Poésy,3,Fleur Delacour,"$3,154,788,753","$3,614,109,715",87.30%
+51,Isabella Laughland,3,Leanne,"$3,197,457,035","$3,204,418,769",99.80%
+52,Gemma Jones,3,Poppy Pomfrey,"$3,120,643,860","$4,336,788,268",72.00%
+53,Freddie Stroma,3,Cormac McLaggen,"$3,197,457,035","$3,446,272,709",92.80%
+54,Jessie Cave,3,Lavender Brown,"$3,197,457,035","$3,197,461,189",100.00%
+55,Anna Shaffer,3,Romilda Vane,"$3,197,457,035","$3,197,457,035",100.00%
+56,George Harris,3,Kingsley Shacklebolt,"$3,207,665,815","$3,755,662,977",85.40%
+57,Georgina Leonidas,3,Katie Bell,"$3,197,457,035","$3,254,441,254",98.20%
+58,Scarlett Byrne,3,Pansy Parkinson,"$3,197,457,035","$3,197,457,035",100.00%
+59,Dave Legeno,3,Fenrir Greyback,"$3,197,457,035","$3,670,510,067",87.10%
+60,John Cleese,2,Nearly Headless Nick,"$1,839,998,024","$7,621,740,284",24.10%
+61,Jude Law,2,Albus Dumbledore,"$1,053,015,484","$6,379,806,560",16.50%
+62,Callum Turner,2,Theseus Scamander,"$1,053,015,484","$1,358,647,683",77.50%
+63,Richard Harris,2,Albus Dumbledore,"$1,839,998,024","$2,922,311,182",63.00%
+64,Carmen Ejogo,2,Seraphina Picquery,"$1,460,179,724","$2,374,351,489",61.50%
+65,Poppy Corby-Tuech,2,Vinda Rosier,"$1,053,015,484","$1,053,447,902",100.00%
+66,Maja Bloom,2,Carrow,"$1,053,015,484","$1,053,015,484",100.00%
+67,Shirley Henderson,2,Myrtle,"$1,761,697,317","$2,837,679,170",62.10%
+68,William Nadylam,2,Yusuf Kama,"$1,053,015,484","$1,073,136,606",98.10%
+69,Kevin Guthrie,2,Mr. Abernathy,"$1,460,179,724","$1,984,601,288",73.60%
+70,Victoria Yeates,2,Bunty Broadacre,"$1,053,015,484","$1,053,015,484",100.00%
+71,Graham Duff,2,Death Eater,"$2,268,045,966","$2,268,045,966",100.00%
+72,Jim Broadbent,2,Horace Slughorn,"$2,245,689,330","$7,571,581,226",29.70%
+73,Jessica Williams,2,Professor Eulalie Hicks,"$1,053,015,484","$1,178,859,311",89.30%
+74,Domhnall Gleeson,2,Bill Weasley,"$2,268,045,966","$8,467,219,505",26.80%
+75,Robert Pattinson,2,Cedric Diggory,"$1,826,362,636","$6,512,090,101",28.00%
+76,Fiona Glascott,2,Minerva McGonagall,"$1,053,015,484","$1,223,005,643",86.10%
+77,Zoë Kravitz,2,Leta Lestrange,"$1,460,179,724","$4,874,843,201",30.00%
+78,Miriam Margolyes,2,Pomona Sprout,"$2,191,232,791","$3,276,222,253",66.90%
+79,Suzanne Toase,2,Alecto Carrow,"$2,268,045,966","$2,268,045,966",100.00%
+80,Frances de la Tour,2,Madame Maxine,"$1,838,510,492","$4,097,534,506",44.90%
+81,Guy Henry,2,Pius Thicknesse,"$2,268,045,966","$2,268,323,612",100.00%
+82,Imelda Staunton,2,Dolores Umbridge,"$1,891,387,554","$6,101,962,170",31.00%
+83,Leslie Phillips,2,The Sorting Hat,"$2,281,321,755","$2,771,852,905",82.30%
+84,Penelope McGhie,2,Death Eater,"$2,268,045,966","$2,268,045,966",100.00%
+85,Toby Jones,2,Dobby,"$1,826,722,235","$7,926,585,835",23.00%
+86,Emil Hostina,2,Death Eater,"$2,268,045,966","$2,332,398,573",97.20%
+87,Miranda Richardson,2,Rita Skeeter,"$1,838,510,492","$3,011,165,189",61.10%
+88,Peter G. Reed,2,Death Eater,"$2,268,045,966","$3,026,582,701",74.90%
+89,Granville Saxton,2,Death Eater,"$2,268,045,966","$2,268,045,966",100.00%
+90,Amber Evans,2,Twin Girl #1,"$2,268,045,966","$2,268,045,966",100.00%
+91,Bob Yves Van Hellenberg Hubar,2,Death Eater,"$2,268,045,966","$2,268,045,966",100.00%
+92,Ashley McGuire,2,Death Eater,"$2,268,045,966","$2,685,886,139",84.40%
+93,Ruby Evans,2,Twin Girl #2,"$2,268,045,966","$2,268,045,966",100.00%
+94,Jamie Campbell Bower,2,Young Grindelwald,"$1,600,223,044","$4,086,344,470",39.20%
+95,Nick Moran,2,Scabior,"$2,268,045,966","$2,324,082,768",97.60%

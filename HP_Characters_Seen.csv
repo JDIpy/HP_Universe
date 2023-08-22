@@ -1,0 +1,109 @@
+﻿Seen_Id,Character,Full Intro,Full Last Seen,1 Intro,1 Last Seen,1 Year,2 Intro,2 Last Seen,2 Year,3 Intro,3 Last Seen,3 Year,4 Intro,4 Last Seen,4 Year,5 Intro,5 Last Seen,5 Year,6 Intro,6 Last Seen,6 Year,7 Intro,7 Last Seen,7 Year
+1,Harry Potter,1.01,7.37,1.01,1.17,First Year,2.01,2.18,Second Year,3.01,3.22,Third Year,4.01,4.37,Fourth Year,5.01,5.38,Fifth Year,6.03,6.3,Sixth Year,7.02,7.37,Dropout
+2,Hermione Granger,1.06,7.37,1.06,1.17,First Year,2.04,2.18,Second Year,3.04,3.22,Third Year,4.05,4.37,Fourth Year,5.04,5.38,Fifth Year,6.05,6.3,Sixth Year,7.04,7.37,Dropout
+3,Ronald Weasley,1.06,7.37,1.06,1.17,First Year,2.02,2.18,Second Year,3.04,3.22,Third Year,4.04,4.37,Fourth Year,5.04,5.38,Fifth Year,6.05,6.3,Sixth Year,7.04,7.37,Dropout
+4,Fred Weasley,1.06,7.31,1.06,1.17,Third Year,2.03,2.18,Fourth Year,3.04,3.16,Fifth Year,4.04,4.37,Sixth Year,5.04,5.38,Seventh Year,6.06,6.3,,7.04,7.31,
+5,George Weasley,1.06,7.36,1.06,1.16,Third Year,2.03,2.18,Fourth Year,3.04,3.16,Fifth Year,4.04,4.37,Sixth Year,5.04,5.38,Seventh Year,6.06,6.3,,7.04,7.36,
+6,Ginny Weasley,1.06,7.37,1.06,1.16,,2.03,2.18,First Year,3.04,3.13,Second Year,4.05,4.31,Third Year,5.04,5.38,Fourth Year,6.05,6.3,Fifth Year,7.05,7.37,Sixth Year
+7,Albus Dumbledore,1.01,6.27,1.01,1.17,,2.05,2.18,,3.05,3.22,,4.12,4.37,,5.08,5.37,,6.03,6.27,,,,
+8,Lord Voldemort,1.17,7.36,1.17,1.17,,2.17,2.17,,,,,4.32,4.34,,5.36,5.36,,,,,7.01,7.36,
+9,Draco Malfoy,1.06,7.37,1.06,1.17,First Year,2.04,2.18,Second Year,3.05,3.16,Third Year,4.08,4.37,Fourth Year,5.1,5.32,Fifth Year,6.06,6.28,Sixth Year,7.01,7.37,Seventh Year
+10,Minerva McGonagall,1.01,7.36,1.01,1.16,,2.05,2.18,,3.05,3.15,,4.12,4.37,,5.06,5.38,,6.08,6.3,,7.3,7.36,
+11,Lucius Malfoy,2.04,7.36,,,,2.04,2.18,,,,,4.08,4.33,,5.09,5.35,,,,,7.01,7.36,
+12,Bellatrix Lestrange,5.34,7.36,,,,,,,,,,,,,5.34,5.36,,6.02,6.02,,7.01,7.36,
+13,Remus Lupin,3.05,7.31,,,,,,,3.05,3.22,,,,,5.03,5.38,,6.06,6.3,,7.4,7.31,
+14,Sirius Black,3.03,5.35,,,,,,,3.03,3.21,,4.19,4.36,,5.04,5.35,,,,,,,
+15,Peter Pettigrew,1.06,7.23,1.06,1.12,,2.03,2.12,,3.04,3.2,,4.32,4.34,,,,,6.02,6.02,,7.01,7.23,
+16,Rubeus Hagrid,1.04,7.36,1.04,1.17,,2.04,2.18,,3.05,3.22,,4.11,4.37,,5.06,5.38,,6.06,6.3,,7.4,7.36,
+17,Argus Filch,1.09,7.31,1.09,1.15,,2.08,2.13,,3.08,3.14,,4.12,4.25,,5.14,5.3,,6.12,6.21,,7.3,7.31,
+18,Arabella Figg,5.01,6.3,,,,,,,,,,,,,5.01,5.08,,6.3,6.3,,,,
+19,Cedric Diggory,3.09,4.32,,,,,,,3.09,3.13,Sixth Year,4.06,4.32,Seventh Year,,,,,,,,,
+20,Viktor Krum,4.08,7.08,,,,,,,,,,4.08,4.37,,,,,,,,7.08,7.08,
+21,Fleur Delacour,4.12,7.33,,,,,,,,,,4.12,4.37,,,,,6.05,6.3,,7.04,7.33,
+22,Severus Snape,1.07,7.32,1.07,1.17,,2.05,2.16,,3.05,3.22,,4.17,4.36,,5.06,5.38,,6.02,6.28,,7.01,7.32,
+23,Vernon Dursley,1.01,7.03,1.01,1.04,,2.01,2.01,,3.01,3.22,,4.03,4.37,,5.01,5.38,,6.03,6.3,,7.03,7.03,
+24,Petunia Dursley,1.01,7.03,1.01,1.04,,2.01,2.01,,3.01,3.02,,4.03,4.37,,5.01,5.38,,6.03,6.3,,7.03,7.03,
+25,Dudley Dursley,1.01,7.03,1.01,1.04,,2.01,2.01,,3.01,3.02,,4.03,4.37,,5.01,5.38,,6.03,6.3,,7.03,7.03,
+26,Dobby,2.01,7.23,,,,2.01,2.18,,,,,4.21,4.28,,5.18,5.27,,6.19,6.21,,7.23,7.23,
+27,Filius Flitwick,1.08,7.36,1.08,1.16,,2.07,2.16,,3.05,3.15,,4.12,4.31,,5.13,5.31,,6.18,6.29,,7.3,7.36,
+28,Pomona Sprout,1.08,7.36,1.08,1.08,,2.06,2.16,,3.08,3.11,,4.12,4.23,,5.11,5.31,,6.14,6.3,,7.3,7.36,
+29,Sybill Trelawney,3.06,7.32,,,,,,,3.06,3.16,,4.13,4.29,,5.12,5.26,,6.08,6.25,,7.32,7.32,
+30,Quirinus Quirrell,1.05,1.17,1.05,1.17,,,,,,,,,,,,,,,,,,,
+31,Cuthbert Binns,1.08,5.29,1.08,1.16,,2.09,2.09,,,,,4.29,4.29,,5.12,5.29,,,,,,,
+32,Barty Crouch Jr.,4.35,4.36,,,,,,,,,,4.35,4.36,,,,,,,,,,
+33,Barty Crouch Sr.,4.07,4.28,,,,,,,,,,4.07,4.28,,,,,,,,,,
+34,Mad-Eye Moody,4.35,7.04,,,,,,,,,,4.35,4.37,,5.03,5.38,,6.3,6.3,,7.04,7.04,
+35,Lavender Brown,1.07,7.32,1.07,1.1,First Year,2.09,2.09,Second Year,3.06,3.16,Third Year,4.13,4.28,Fourth Year,5.11,5.31,Fifth Year,6.09,6.24,Sixth Year,7.32,7.32,Seventh Year
+36,Parvati Patil,1.07,7.32,1.07,1.13,First Year,2.09,2.09,Second Year,3.06,3.16,Third Year,4.13,4.28,Fourth Year,5.11,5.31,Fifth Year,6.09,6.15,Sixth Year,7.32,7.32,Seventh Year
+37,Seamus Finnigan,1.07,7.36,1.07,1.11,First Year,2.05,2.16,Second Year,3.04,3.22,Third Year,4.07,4.24,Fourth Year,5.11,5.32,Fifth Year,6.08,6.3,Sixth Year,7.29,7.36,Seventh Year
+38,Neville Longbottom,1.06,7.36,1.06,1.17,First Year,2.05,2.16,Second Year,3.04,3.16,Third Year,4.11,4.31,Fourth Year,5.1,5.38,Fifth Year,6.07,6.3,Sixth Year,7.28,7.36,Seventh Year
+39,Dean Thomas,1.07,7.32,1.07,1.11,First Year,2.05,2.15,Second Year,3.04,3.22,Third Year,4.07,4.24,Fourth Year,5.11,5.32,Fifth Year,6.08,6.29,Sixth Year,7.15,7.32,Dropout
+40,Hannah Abbott,1.07,7.36,1.07,1.07,First Year,2.11,2.15,Second Year,3.09,3.09,Third Year,4.13,4.19,Fourth Year,5.16,5.38,Fifth Year,,,,7.31,7.36,Seventh Year
+41,Susan Bones,1.07,6.18,1.07,1.07,First Year,,,,,,,,,,5.16,5.38,Fifth Year,6.18,6.18,Sixth Year,,,
+42,Ernie Macmillan,2.11,7.32,,,,2.11,2.15,Second Year,,,,4.07,4.19,Fourth Year,5.11,5.38,Fifth Year,6.09,6.28,Sixth Year,7.29,7.32,Seventh Year
+43,Justin Finch-Fletchley,1.07,5.38,1.07,1.07,First Year,2.06,2.18,Second Year,,,,4.18,4.18,Fourth Year,5.16,5.38,Fifth Year,,,,,,
+44,Vincent Crabbe,1.06,7.31,1.06,1.13,First Year,2.06,2.15,Second Year,3.05,3.15,Third Year,4.11,4.37,Fourth Year,5.1,5.38,Fifth Year,6.07,6.3,Sixth Year,7.31,7.31,Seventh Year
+45,Gregory Goyle,1.06,7.31,1.06,1.13,First Year,2.06,2.15,Second Year,3.05,3.15,Third Year,4.11,4.37,Fourth Year,5.1,5.38,Fifth Year,6.07,6.3,Sixth Year,7.31,7.31,Seventh Year
+46,Padma Patil,1.07,7.29,1.07,1.07,First Year,,,,,,,4.23,4.27,Fourth Year,5.16,5.31,Fifth Year,,,,7.29,7.29,Seventh Year
+47,Michael Corner,5.16,7.29,,,First Year,,,,,,,,,,5.16,5.18,Fifth Year,6.09,6.09,Sixth Year,7.29,7.29,Seventh Year
+48,Anthony Goldstein,5.16,7.29,,,First Year,,,,,,,,,,5.16,5.38,Fifth Year,,,,7.29,7.29,Seventh Year
+49,Terry Boot,1.07,7.29,1.07,1.07,First Year,,,,,,,,,,5.16,5.38,Fifth Year,6.09,6.09,Sixth Year,7.29,7.29,Seventh Year
+50,Cho Chang,3.13,7.29,,,,,,,3.13,3.15,Third Year,4.07,4.37,Fourth Year,5.1,5.38,Fifth Year,6.07,6.07,Sixth Year,7.29,7.29,Seventh Year
+51,Pansy Parkinson,1.09,7.31,1.09,1.09,First Year,,,,3.06,3.07,Third Year,4.18,4.28,Fourth Year,5.1,5.31,Fifth Year,6.07,6.21,Sixth Year,7.31,7.31,Seventh Year
+52,Blaise Zabini,1.07,6.18,1.07,1.07,First Year,,,,,,,,,,,,,6.07,6.18,Sixth Year,,,
+53,Theodore Nott,1.07,6.09,1.07,1.07,First Year,,,,,,,,,,5.26,5.26,Fifth Year,6.09,6.09,Sixth Year,,,
+54,Cormac McLaggen,6.07,6.19,,,,,,,,,,,,,,,,6.07,6.19,Seventh Year,,,
+55,Katie Bell,1.11,7.3,1.11,1.11,Second Year,2.07,2.07,Third Year,3.08,3.15,Fourth Year,4.17,4.17,Fifth Year,5.13,5.31,Sixth Year,6.09,6.24,Seventh Year,7.3,7.3,
+56,Lee Jordan,1.06,7.36,1.06,1.16,Third Year,2.04,2.14,Fourth Year,3.13,3.15,Fifth Year,4.13,4.21,Sixth Year,5.1,5.31,Seventh Year,,,,7.08,7.36,
+57,Angelina Johnson,1.11,7.3,1.11,1.11,Third Year,2.07,2.07,Fourth Year,3.08,3.15,Fifth Year,4.16,4.23,Sixth Year,5.12,5.31,Seventh Year,,,,7.3,7.3,
+58,Roger Davies,4.23,5.3,,,,,,,,,,4.23,4.23,Sixth Year,5.25,5.3,Seventh Year,,,,,,
+59,Alicia Spinnet,1.11,7.3,1.11,1.11,Third Year,2.07,2.1,Fourth Year,3.08,3.15,Fifth Year,4.22,4.22,Sixth Year,5.13,5.31,Seventh Year,,,,7.3,7.3,
+60,Percy Weasley,1.06,7.36,1.06,1.17,Fifth Year,2.04,2.16,Sixth Year,3.04,3.22,Seventh Year,4.05,4.26,,5.08,5.27,,6.16,6.3,,7.13,7.36,
+61,Charlie Weasley,4.05,7.36,,,,,,,,,,4.05,4.2,,,,,,,,7.07,7.36,
+62,Bill Weasley,4.05,7.33,,,,,,,,,,4.05,4.36,,5.05,5.23,,6.06,6.3,,7.04,7.33,
+63,Penelope Clearwater,3.05,3.22,,,,,,,3.05,3.22,Seventh Year,,,,,,,,,,,,
+64,Oliver Wood,1.09,7.34,1.09,1.15,Fifth Year,2.07,2.14,Sixth Year,3.08,3.15,Seventh Year,4.07,4.07,,,,,,,,7.3,7.34,
+65,Marcus Flint,1.11,3.15,1.11,1.11,Fifth Year,2.07,2.1,Sixth Year,3.13,3.15,Seventh Year,,,,,,,,,,,,
+66,Nymphadora Tonks,5.03,7.31,,,,,,,,,,,,,5.03,5.38,,6.05,6.3,,7.04,7.31,
+67,Gilderoy Lockhart,2.04,5.23,,,,2.04,2.18,,,,,,,,5.23,5.23,,,,,,,
+68,Andromeda Tonks,7.05,7.05,,,,,,,,,,,,,,,,,,,7.05,7.05,
+69,Narcissa Malfoy,4.08,7.36,,,,,,,,,,4.08,4.08,,,,,6.02,6.06,,7.01,7.36,
+70,Molly Weasley,1.06,7.36,1.06,1.17,,2.03,2.18,,3.04,3.22,,4.05,4.37,,5.04,5.38,,6.05,6.3,,7.05,7.36,
+71,Arthur Weasley,2.03,7.33,,,,2.03,2.18,,3.04,3.22,,4.04,4.11,,5.05,5.38,,6.05,6.3,,7.04,7.33,
+72,Firenze,1.15,7.36,1.15,1.15,,,,,,,,,,,5.26,5.27,,6.3,6.3,,7.31,7.36,
+73,Bane,1.15,7.36,1.15,1.15,,,,,,,,,,,5.3,5.33,,,,,7.36,7.36,
+74,Aragog,2.15,2.15,,,,2.15,2.15,,,,,,,,,,,,,,,,
+75,Dennis Creevey,4.12,5.16,,,,,,,,,,4.12,4.26,First Year,5.11,5.16,Second Year,,,,,,
+76,Colin Creevey,2.06,5.31,,,,2.06,2.1,First Year,3.08,3.08,Second Year,4.12,4.26,Third Year,5.11,5.31,Fourth Year,,,,,,
+77,Zacharias Smith,5.16,7.31,,,,,,,,,,,,,5.16,5.26,Fifth Year,6.14,6.3,Sixth Year,7.31,7.31,Seventh Year
+78,Luna Lovegood,5.1,7.36,,,,,,,,,,,,,5.1,5.38,Fourth Year,6.07,6.3,Fifth Year,7.08,7.36,Sixth Year
+79,Kingsley Shacklebolt,5.03,7.3,,,,,,,,,,,,,5.03,5.36,,6.3,6.3,,7.04,7.3,
+80,Cornelius Fudge,4.08,6.3,,,,,,,3.03,3.22,,4.08,4.36,,5.08,5.37,,6.01,6.3,,,,
+81,Rufus Scrimgeour,6.01,7.07,,,,,,,,,,,,,,,,6.01,6.3,,7.07,7.07,
+82,Aberforth Dumbledore,7.28,7.36,,,,,,,,,,,,,,,,,,,7.28,7.36,
+83,Hedwig,1.05,7.04,1.05,1.17,,2.01,2.12,,3.01,3.22,,4.02,4.37,,5.03,5.38,,6.03,6.11,,7.02,7.04,
+84,Dolores Umbridge,5.08,7.13,,,,,,,,,,,,,5.08,5.38,,6.3,6.3,,7.12,7.13,
+85,Peeves,1.07,7.32,1.07,1.16,,2.08,2.13,,3.07,3.22,,4.12,4.22,,5.12,5.3,,6.15,6.29,,7.32,7.32,
+86,Poppy Pomfrey,1.17,7.33,1.17,1.17,,2.1,2.16,,3.05,3.22,,4.2,4.36,,5.32,5.38,,6.19,6.29,,7.33,7.33,
+87,Ludo Bagman,4.07,4.31,,,,,,,,,,4.07,4.31,,,,,,,,,,
+88,Stan Shunpike,3.03,7.04,,,,,,,3.03,3.03,,4.09,4.09,,5.24,5.24,,,,,7.04,7.04,
+89,Gabrielle Delacour,4.26,7.08,,,,,,,,,,4.26,4.31,,,,,,,,7.06,7.08,
+90,Antonin Dolohov,5.35,7.36,,,,,,,,,,,,,5.35,5.35,,,,,7.01,7.36,
+91,Dedalus Diggle,1.02,7.03,1.02,1.05,,,,,,,,,,,5.03,5.03,,,,,7.03,7.03,
+92,Kreacher,5.06,7.36,,,,,,,,,,,,,5.06,5.32,,6.03,6.21,,7.1,7.36,
+93,Fenrir Greyback,6.27,7.36,,,,,,,,,,,,,,,,6.27,6.28,,7.23,7.36,
+94,Garrick Ollivander,1.05,7.25,1.05,1.05,,,,,,,,4.18,4.18,,,,,,,,7.23,7.25,
+95,Xenophilius Lovegood,7.08,7.22,,,,,,,,,,,,,,,,,,,7.08,7.22,
+96,Rita Skeeter,4.18,6.3,,,,,,,,,,4.18,4.37,,5.25,5.25,,6.3,6.3,,,,
+97,Horace Slughorn,6.04,7.36,,,,,,,,,,,,,,,,6.04,6.3,,7.3,7.36,
+98,Olympe Maxime,4.15,6.3,,,,,,,,,,4.15,4.37,,,,,6.3,6.3,,,,
+99,Augustus Rookwood,5.35,7.36,,,,,,,,,,,,,5.35,5.35,,,,,7.36,7.36,
+100,Pius Thicknesse,7.13,7.36,,,,,,,,,,,,,,,,,,,7.13,7.36,
+101,Elphias Doge,5.03,7.08,,,,,,,,,,,,,5.03,5.03,,,,,7.08,7.08,
+102,Rolanda Hooch,1.09,6.14,1.09,1.11,,2.1,2.16,,3.09,3.15,,,,,5.19,5.19,,6.14,6.14,,,,
+103,Wilhelmina Grubbly-Plank,4.24,5.21,,,,,,,,,,4.24,4.24,,5.1,5.21,,,,,,,
+104,Romilda Vane,6.07,6.24,,,,,,,,,,,,,,,,6.07,6.24,,,,
+105,Winky,4.08,4.35,,,,,,,,,,4.08,4.35,,,,,,,,,,
+106,Amelia Bones,5.08,5.08,,,,,,,,,,,,,5.08,5.08,,,,,,,
+107,Ted Tonks,7.05,7.15,,,,,,,,,,,,,,,,,,,7.05,7.15,
+108,Igor Karkaroff,4.15,4.29,,,,,,,,,,4.15,4.29,,,,,,,,,,

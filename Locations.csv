@@ -1,0 +1,90 @@
+Location_ID,Movie,Year,Location Name,Location Type,City,Country,Latitude,Longitude
+1,Harry Potter and the Philosopher's Stone,2001,Alnwick Castle,Castle,Alnwick,England,55.4156° N,1.7056° W
+2,Harry Potter and the Philosopher's Stone,2001,Durham Cathedral,Cathedral,Durham,England,54.7736° N,1.5762° W
+3,Harry Potter and the Philosopher's Stone,2001,Gloucester Cathedral,Cathedral,Gloucester,England,51.8658° N,2.2462° W
+4,Harry Potter and the Philosopher's Stone,2001,Goathland Station,Railway Station,Goathland,England,54.4004° N,0.7222° W
+5,Harry Potter and the Philosopher's Stone,2001,King's Cross Station,Railway Station,London,England,51.5324° N,0.1244° W
+6,Harry Potter and the Philosopher's Stone,2001,Lacock Abbey,Abbey,Lacock,England,51.4126° N,2.1222° W
+7,Harry Potter and the Philosopher's Stone,2001,Leadenhall Market,Market,London,England,51.5127° N,0.0837° W
+8,Harry Potter and the Philosopher's Stone,2001,Reptile House,Zoo,London,England,51.5356° N,0.1555° W
+9,Harry Potter and the Chamber of Secrets,2002,Durham Cathedral,Cathedral,Durham,England,54.7736° N,1.5762° W
+10,Harry Potter and the Chamber of Secrets,2002,Gloucester Cathedral,Cathedral,Gloucester,England,51.8658° N,2.2462° W
+11,Harry Potter and the Chamber of Secrets,2002,King's Cross Station,Railway Station,London,England,51.5324° N,0.1244° W
+12,Harry Potter and the Chamber of Secrets,2002,Lacock Abbey,Abbey,Lacock,England,51.4126° N,2.1222° W
+13,Harry Potter and the Chamber of Secrets,2002,Glenfinnan Viaduct,Bridge,Glenfinnan,Scotland,56.8724° N,5.4303° W
+14,Harry Potter and the Chamber of Secrets,2002,Argyll Street,Street,London,England,55.8642° N,4.2518° W
+15,Harry Potter and the Chamber of Secrets,2002,Virginia Water,Lake,Virginia Water,England,51.4017° N,0.5868° W
+16,Harry Potter and the Prisoner of Azkaban,2004,Glen Coe,Valley,Scottish Highlands,Scotland,56.6823° N,5.0183° W
+17,Harry Potter and the Prisoner of Azkaban,2004,Glencoe Lochan,Lake,Glencoe,Scotland,56.6649° N,5.0304° W
+18,Harry Potter and the Prisoner of Azkaban,2004,Loch Shiel,Lake,Lochailort,Scotland,56.8617° N,5.5828° W
+19,Harry Potter and the Prisoner of Azkaban,2004,Alnwick Castle,Castle,Alnwick,England,55.4156° N,1.7056° W
+20,Harry Potter and the Prisoner of Azkaban,2004,Goathland Station,Railway Station,Goathland,England,54.4004° N,0.7222° W
+21,Harry Potter and the Prisoner of Azkaban,2004,King's Cross Station,Railway Station,London,England,51.5324° N,0.1244° W
+22,Harry Potter and the Prisoner of Azkaban,2004,Leadenhall Market,Market,London,England,51.5127° N,0.0837° W
+23,Harry Potter and the Prisoner of Azkaban,2004,Glenfinnan Viaduct,Bridge,Glenfinnan,Scotland,56.8724° N,5.4303° W
+24,Harry Potter and the Prisoner of Azkaban,2004,Loch Eilt,Lake,Lochaber,Scotland,56.8909° N,5.3733° W
+25,Harry Potter and the Goblet of Fire,2005,Alnwick Castle,Castle,Alnwick,England,55.4156° N,1.7056° W
+26,Harry Potter and the Goblet of Fire,2005,Bodleian Library,Library,Oxford,England,51.7542° N,1.2547° W
+27,Harry Potter and the Goblet of Fire,2005,Christ Church College,College,Oxford,England,51.7494° N,1.2483° W
+28,Harry Potter and the Goblet of Fire,2005,Gloucester Cathedral,Cathedral,Gloucester,England,51.8658° N,2.2462° W
+29,Harry Potter and the Goblet of Fire,2005,Virginia Water,Lake,Virginia Water,England,51.4017° N,0.5868° W
+30,Harry Potter and the Goblet of Fire,2005,New College,College,Oxford,England,51.7532° N,1.2532° W
+31,Harry Potter and the Order of Phoenix,2007,12 Picket Post Close,House,Bracknell,England,52.6291° N,1.2963° W
+32,Harry Potter and the Order of Phoenix,2007,Bodleian Library,Library,Oxford,England,51.7542° N,1.2547° W
+33,Harry Potter and the Order of Phoenix,2007,Gloucester Cathedral,Cathedral,Gloucester,England,51.8658° N,2.2462° W
+34,Harry Potter and the Order of Phoenix,2007,Millennium Bridge,Bridge,London,England,51.5098° N,0.0985° W
+35,Harry Potter and the Order of Phoenix,2007,Cliffs of Moher,Cliffs,County Clare,Ireland,52.9719° N,9.4309° W
+36,Harry Potter and the Order of Phoenix,2007,Piccadilly Circus,Public Square,London,England,51.5101° N,0.1342° W
+37,Harry Potter and the Half-Blood Prince,2009,Millennium Bridge,Bridge,London,England,51.5098° N,0.0985° W
+38,Harry Potter and the Half-Blood Prince,2009,Claremont Square,Residential Square,London,England,51.5311° N,0.1149° W
+39,Harry Potter and the Half-Blood Prince,2009,Freshwater West,Beach,Castlemartin,Wales,51.6393° N,5.1376° W
+40,Harry Potter and the Half-Blood Prince,2009,Gloucester Cathedral,Cathedral,Gloucester,England,51.8658° N,2.2462° W
+41,Harry Potter and the Half-Blood Prince,2009,Bodleian Library,Library,Oxford,England,51.7542° N,1.2547° W
+42,Harry Potter and the Half-Blood Prince,2009,Railway Station,Railway Station,London,England,51.5285° N,0.1291° W
+43,Harry Potter and the Half-Blood Prince,2009,Lacock Abbey,Abbey,Lacock,England,51.4125° N,2.1224° W
+44,Harry Potter and the Half-Blood Prince,2009,Glenfinnan Viaduct,Bridge,Glenfinnan,Scotland,56.8724° N,5.4303° W
+45,Harry Potter and the Half-Blood Prince,2009,Argyll Street,Street,London,England,55.8632° N,4.2569° W
+46,Harry Potter and the Half-Blood Prince,2009,Virginia Water,Lake,Virginia Water,England,51.4017° N,0.5868° W
+47,Harry Potter and the Deathly Hallows 1,2010,Freshwater West,Beach,Castlemartin,Wales,51.6393° N,5.1376° W
+48,Harry Potter and the Deathly Hallows 1,2010,Gloucester Cathedral,Cathedral,Gloucester,England,51.8658° N,2.2462° W
+49,Harry Potter and the Deathly Hallows 1,2010,Forest of Dean,Forest,Gloucestershire,England,51.8103° N,2.4763° W
+50,Harry Potter and the Deathly Hallows 1,2010,Malham Cove,Cliff,Malham,England,54.0678° N,2.1592° W
+51,Harry Potter and the Deathly Hallows 1,2010,Pembrokeshire Beach,Beach,Pembrokeshire Coast,Wales,51.7126° N,5.0848° W
+52,Harry Potter and the Deathly Hallows 1,2010,Piccadilly Circus,Public Square,London,England,51.5101° N,0.1342° W
+53,Harry Potter and the Deathly Hallows 2,2011,Freshwater West,Beach,Castlemartin,Wales,51.6393° N,5.1376° W
+54,Harry Potter and the Deathly Hallows 2,2011,Gloucester Cathedral,Cathedral,Gloucester,England,51.8658° N,2.2462° W
+55,Harry Potter and the Deathly Hallows 2,2011,Gringotts Bank,Bank,London,England,51.5117° N,0.1240° W
+56,Harry Potter and the Deathly Hallows 2,2011,Hogwarts School,Castle,Oxfordshire,England,51.5175° N,0.1278° W
+57,Harry Potter and the Deathly Hallows 2,2011,King's Cross Station,Railway Station,London,England,51.5326° N,0.1245° W
+58,Harry Potter and the Deathly Hallows 2,2011,Leadenhall Market,Market,London,England,51.5120° N,0.0836° W
+59,Harry Potter and the Deathly Hallows 2,2011,Millennium Bridge,Bridge,London,England,51.5098° N,0.0985° W
+60,Harry Potter and the Deathly Hallows 2,2011,Piccadilly Circus,Public Square,London,England,51.5101° N,0.1342° W
+61,Harry Potter and the Deathly Hallows 2,2011,Shell Cottage,House,Pembrokeshire Coast,Wales,51.6754° N,4.7412° W
+62,Fantastic Beasts and Where to Find Them,2016,Liverpool,City,Liverpool,England,53.4084° N,2.9916° W
+63,Fantastic Beasts and Where to Find Them,2016,St. George's Hall,Hall,Liverpool,England,53.4080° N,2.9848° W
+64,Fantastic Beasts and Where to Find Them,2016,Lacock Abbey,Abbey,Lacock,England,51.4125° N,2.1224° W
+65,Fantastic Beasts and Where to Find Them,2016,Millennium Bridge,Bridge,London,England,51.5098° N,0.0985° W
+66,Fantastic Beasts and Where to Find Them,2016,Leadenhall Market,Market,London,England,51.5120° N,0.0836° W
+67,Fantastic Beasts: The Crimes of Grindelwald,2018,St. Paul's Cathedral,Cathedral,London,England,51.5138° N,0.0984° W
+68,Fantastic Beasts: The Crimes of Grindelwald,2018,Liverpool,City,Liverpool,England,53.4084° N,2.9916° W
+69,Fantastic Beasts: The Crimes of Grindelwald,2018,Lacock Abbey,Abbey,Lacock,England,51.4125° N,2.1224° W
+70,Fantastic Beasts: The Crimes of Grindelwald,2018,St. Lawrence Jewry,Church,London,England,51.5153° N,0.0939° W
+71,Fantastic Beasts: The Crimes of Grindelwald,2018,Palace of Versailles,Palace,Versailles,France,48.8048° N,2.1204° E
+72,Fantastic Beasts: The Crimes of Grindelwald,2018,Place Vendôme,Square,Paris,France,48.8674° N,2.3292° E
+73,Fantastic Beasts: The Crimes of Grindelwald,2018,Père Lachaise Cemetery,Cemetery,Paris,France,48.8614° N,2.3933° E
+74,Fantastic Beasts: The Crimes of Grindelwald,2018,Place Clichy,Public Square,Paris,France,48.8831° N,2.3279° E
+75,Fantastic Beasts: The Crimes of Grindelwald,2018,Place des Vosges,Public Square,Paris,France,48.8548° N,2.3663° E
+76,Fantastic Beasts: The Crimes of Grindelwald,2018,Thénardier's Inn,Inn,Paris,France,48.8510° N,2.3391° E
+77,Fantastic Beasts: The Crimes of Grindelwald,2018,Tower Bridge,Bridge,London,England,51.5055° N,0.0754° W
+78,Fantastic Beasts: The Crimes of Grindelwald,2018,Zoological Gardens,Zoo,London,England,51.5352° N,0.1534° W
+79,Fantastic Beasts: The Secrets of Dumbledore,2022,Liverpool,City,Liverpool,England,53.4084° N,2.9916° W
+80,Fantastic Beasts: The Secrets of Dumbledore,2022,St. George's Hall,Hall,Liverpool,England,53.4080° N,2.9848° W
+81,Fantastic Beasts: The Secrets of Dumbledore,2022,Lacock Abbey,Abbey,Lacock,England,51.4125° N,2.1224° W
+82,Fantastic Beasts: The Secrets of Dumbledore,2022,Tower Bridge,Bridge,London,England,51.5055° N,0.0754° W
+83,Fantastic Beasts: The Secrets of Dumbledore,2022,King's Cross Station,Railway Station,London,England,51.5326° N,0.1245° W
+84,Fantastic Beasts: The Secrets of Dumbledore,2022,Oxford,City,Oxford,England,51.7520° N,1.2577° W
+85,Fantastic Beasts: The Secrets of Dumbledore,2022,Palace of Versailles,Palace,Versailles,France,48.8049° N,2.1204° E
+86,Fantastic Beasts: The Secrets of Dumbledore,2022,Paris,City,Paris,France,48.8566° N,2.3522° E
+87,Fantastic Beasts: The Secrets of Dumbledore,2022,Piazza del Popolo,Public Square,Rome,Italy,41.9109° N,12.4768° E
+88,Fantastic Beasts: The Secrets of Dumbledore,2022,Piazza Navona,Public Square,Rome,Italy,41.8992° N,12.4733° E
+89,Fantastic Beasts: The Secrets of Dumbledore,2022,St. Peter's Square,Public Square,Vatican City,Vatican City,41.9022° N,12.4564° E
